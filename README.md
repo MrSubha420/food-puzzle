@@ -1,4 +1,4 @@
-# 🍔 Food Puzzle 🧩
+# Fruits-Puzzle 🧩
 
 ## 🌟 Overview
 A fun and interactive food-themed puzzle game where users can solve puzzles related to different cuisines and ingredients from around the world.
